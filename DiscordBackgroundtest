@@ -1,5 +1,0 @@
-.app {
-    background-image: url("https://imgur.com/DDiOf5L.jpg");
-    background-size: cover !important;
-    background-position: center;
-}
